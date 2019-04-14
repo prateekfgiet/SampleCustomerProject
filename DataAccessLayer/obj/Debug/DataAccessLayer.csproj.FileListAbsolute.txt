@@ -1,0 +1,7 @@
+D:\Examples\Sample\SampleWork\SampleWork\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Examples\Sample\SampleWork\SampleWork\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Examples\Sample\SampleWork\SampleWork\DataAccessLayer\bin\Debug\MiddleLayer.dll
+D:\Examples\Sample\SampleWork\SampleWork\DataAccessLayer\bin\Debug\MiddleLayer.pdb
+D:\Examples\Sample\SampleWork\SampleWork\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\Examples\Sample\SampleWork\SampleWork\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Examples\Sample\SampleWork\SampleWork\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

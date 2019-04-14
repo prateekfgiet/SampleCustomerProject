@@ -1,0 +1,7 @@
+D:\Examples\Sample\SampleWork\SampleWork\Factory\bin\Debug\FactoryCustomer.dll
+D:\Examples\Sample\SampleWork\SampleWork\Factory\bin\Debug\FactoryCustomer.pdb
+D:\Examples\Sample\SampleWork\SampleWork\Factory\bin\Debug\MiddleLayer.dll
+D:\Examples\Sample\SampleWork\SampleWork\Factory\bin\Debug\MiddleLayer.pdb
+D:\Examples\Sample\SampleWork\SampleWork\Factory\obj\Debug\FactoryCustomer.csprojResolveAssemblyReference.cache
+D:\Examples\Sample\SampleWork\SampleWork\Factory\obj\Debug\FactoryCustomer.dll
+D:\Examples\Sample\SampleWork\SampleWork\Factory\obj\Debug\FactoryCustomer.pdb

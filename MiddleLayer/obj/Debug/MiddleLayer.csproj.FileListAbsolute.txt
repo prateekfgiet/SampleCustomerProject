@@ -1,0 +1,5 @@
+D:\Examples\Sample\SampleWork\SampleWork\MiddleLayer\bin\Debug\MiddleLayer.dll
+D:\Examples\Sample\SampleWork\SampleWork\MiddleLayer\bin\Debug\MiddleLayer.pdb
+D:\Examples\Sample\SampleWork\SampleWork\MiddleLayer\obj\Debug\MiddleLayer.csprojResolveAssemblyReference.cache
+D:\Examples\Sample\SampleWork\SampleWork\MiddleLayer\obj\Debug\MiddleLayer.dll
+D:\Examples\Sample\SampleWork\SampleWork\MiddleLayer\obj\Debug\MiddleLayer.pdb

@@ -1,0 +1,14 @@
+D:\Examples\Sample\SampleWork\SampleWork\SampleWork\obj\Debug\SampleWork.csprojResolveAssemblyReference.cache
+D:\Examples\Sample\SampleWork\SampleWork\SampleWork\obj\Debug\SampleWork.Properties.Resources.resources
+D:\Examples\Sample\SampleWork\SampleWork\SampleWork\obj\Debug\SampleWork.csproj.GenerateResource.Cache
+D:\Examples\Sample\SampleWork\SampleWork\SampleWork\bin\Debug\SampleWork.exe
+D:\Examples\Sample\SampleWork\SampleWork\SampleWork\bin\Debug\SampleWork.pdb
+D:\Examples\Sample\SampleWork\SampleWork\SampleWork\obj\Debug\SampleWork.exe
+D:\Examples\Sample\SampleWork\SampleWork\SampleWork\obj\Debug\SampleWork.pdb
+D:\Examples\Sample\SampleWork\SampleWork\SampleWork\obj\Debug\SampleWork.Form1.resources
+D:\Examples\Sample\SampleWork\SampleWork\SampleWork\bin\Debug\MiddleLayer.dll
+D:\Examples\Sample\SampleWork\SampleWork\SampleWork\bin\Debug\MiddleLayer.pdb
+D:\Examples\Sample\SampleWork\SampleWork\SampleWork\bin\Debug\FactoryCustomer.dll
+D:\Examples\Sample\SampleWork\SampleWork\SampleWork\bin\Debug\FactoryCustomer.pdb
+D:\Examples\Sample\SampleWork\SampleWork\SampleWork\bin\Debug\DataAccessLayer.dll
+D:\Examples\Sample\SampleWork\SampleWork\SampleWork\bin\Debug\DataAccessLayer.pdb
